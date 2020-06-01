@@ -1,5 +1,5 @@
 <h3 align="center">Algorithm</h3>
 
 <p align="center">
-  Algorithm Study
+  TOPCODER + BaekJoon Algorithm Study
 </p>
